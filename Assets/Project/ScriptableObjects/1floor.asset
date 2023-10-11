@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: 1floor
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 362b3049d44662343a76570ebd8b5436, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 36f1392a04907d9459bdb0d47e35a891, type: 3}
+  - texture: {fileID: 2800000, guid: 85a8928f61af0d145a3ea9ddaa723cc0, type: 3}
+    tilingValue: {x: 8, y: 8}
+    previewImageData: {fileID: 21300000, guid: 11fffb71806ca61409d4e0af046a506f, type: 3}
+  - texture: {fileID: 2800000, guid: 6d527d34917fc9b4095a842e219bc38a, type: 3}
+    tilingValue: {x: 20, y: 20}
+    previewImageData: {fileID: 21300000, guid: 3bf560fa514758d408c1033f58edd8e6, type: 3}
+  - texture: {fileID: 2800000, guid: fd46b5075c76f514db344f500b950484, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 521c12dbf3e206844bf3be0d5a5140bb, type: 3}
+  - texture: {fileID: 2800000, guid: 88790ee516c159942afd57540fc5db3d, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: a9d2324d00eed1a489f16533d3e9774f, type: 3}

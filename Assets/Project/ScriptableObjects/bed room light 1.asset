@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: bed room light 1
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 9e08f96a965803d4f9021177f11d2315, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 1a5a041f4d973474ca9c8318c0dad7fe, type: 3}
+  - texture: {fileID: 2800000, guid: 54d280761a2b0a64b83d50acdc8c4e84, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 61da04409933363488db4bbf6a1f1c32, type: 3}
+  - texture: {fileID: 2800000, guid: 5453fc14d0de80f4abe01ae39ab15a1c, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 2449dfcda7fc76148a8169d35f6b68b5, type: 3}
+  - texture: {fileID: 2800000, guid: 0d010b7f95d3cd540bfb668a78a60e94, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 6efe57b1938783643b2bf6a6681f63ae, type: 3}

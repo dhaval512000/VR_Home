@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: chair
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 1259b68009ebd554c8471b00b4b8e2c3, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: e0725f4c971105b4baa7c8a96692da83, type: 3}
+  - texture: {fileID: 2800000, guid: b0d4aa0062e03c34db1098d97a262be3, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 7b16c6d75480bd64e8dededd52c4c2f9, type: 3}
+  - texture: {fileID: 2800000, guid: 68beeee27e421a047a707cb534fd3c13, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 2807d19f4a59d2c41a1d812e1978045e, type: 3}
+  - texture: {fileID: 2800000, guid: 5d9bb686ffc02de4ca08d79c81e9c4ca, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 1bb9c85118ea6914eabc0e75f4cc639b, type: 3}
+  - texture: {fileID: 2800000, guid: f40ad9de75517274eb4bd39b4b4f28d5, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: a117cb9e5833dca4094f11593ee17136, type: 3}

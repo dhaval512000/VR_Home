@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: dining light
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 07a1bea23bb28d845a325eb2840a84a8, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: da235aa8888e64e4cbd56bc88e1f0a05, type: 3}
+  - texture: {fileID: 2800000, guid: 3e5d8d75989c7b1498df0c61c4b8354e, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 580e7f7c2c5b18749ae744965e42aaab, type: 3}
+  - texture: {fileID: 2800000, guid: 7fdfc136623847143b8198cb39b9fe3a, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 9f135df64b10cbd4e9d247d792b5d188, type: 3}
+  - texture: {fileID: 2800000, guid: 15732fe0b4adfe44099325c6197711d0, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: c91d95f6c5f97f1408b7e8750db6b676, type: 3}
+  - texture: {fileID: 2800000, guid: f30f8726426862e478fbffc45478b143, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: acf38b94646cd5a4bbbdec803d16d97a, type: 3}
+  - texture: {fileID: 2800000, guid: 8c6128a8871956245adf76abd0ed0183, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: f40076127acd6c9428b101fdd18cca9c, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: bed room kabat
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 1a8376fb171bd924b85e04797fcda1cf, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 505283fe442e2304b830429746de32ba, type: 3}
+  - texture: {fileID: 2800000, guid: 0086155cfe3635942aacbfa07cec0177, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 6cb2f50d4d760b24b9b4527229e308b8, type: 3}
+  - texture: {fileID: 2800000, guid: 5a24e8c1c9dca854086ada4da1b22257, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 75498e3aa23b6824f98c5d735d61486f, type: 3}
+  - texture: {fileID: 2800000, guid: 62cc7d0e20a6c264db9913e384ee6b4f, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: e09e639bbe19bc542b3d70585e030d85, type: 3}
+  - texture: {fileID: 2800000, guid: 59f47873a5a80104b90abfd94bb50464, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 0f1553ba87f6e2943a05f22aab492e79, type: 3}

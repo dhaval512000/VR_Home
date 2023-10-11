@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: TREE1_POT
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 00f75bc47c3e52f4f816e9433ae52077, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 9ed0d68503357c94fad7a883eb3ce593, type: 3}
+  - texture: {fileID: 2800000, guid: 72414233a88a13448b2119dd021ce294, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 8ad4ff2d73139764698c8dad2edfcba5, type: 3}
+  - texture: {fileID: 2800000, guid: 74b17c1966274c046a419a8b0f9873b6, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 893c645fb149c214a8e676ce034a1579, type: 3}
+  - texture: {fileID: 2800000, guid: 245d3e2f9e72f264da639c2cb401117a, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 275bb6ac264a8aa4c8a86f43d6ef2b62, type: 3}
+  - texture: {fileID: 2800000, guid: 0c5f7123ea6b00b4e954be68a6532e45, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 202ee40546913f248968497c981a60a3, type: 3}

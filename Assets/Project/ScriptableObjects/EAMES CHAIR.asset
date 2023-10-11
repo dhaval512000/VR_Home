@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: EAMES CHAIR
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 9218b35419c3e36499c8a068a61ce7e3, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: c561e4ab64f3163469ebb5624c738ba4, type: 3}
+  - texture: {fileID: 2800000, guid: 818c54212b9e2094a8494ad792d6c818, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: e1fa0026b42ceb840b892d9c2b7a1b72, type: 3}
+  - texture: {fileID: 2800000, guid: 435fe271504dee846bb6f10df0f243da, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 98ee701a2c1989b438e0e25c7f673155, type: 3}
+  - texture: {fileID: 2800000, guid: 703efe0fe3893a942b58608567f62968, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 34c1a74660fb6064a95e8f99926252c8, type: 3}
+  - texture: {fileID: 2800000, guid: bb7c750a7d7442e4b95c4ffbb008aca4, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: f79828d2c9c4ef446b999521c15b05c4, type: 3}

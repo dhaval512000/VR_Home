@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: Office shelves 2
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 0d4133aa20c454b4b98fae7a0af5eb69, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: bf3a8fcb33fe37049b6df2369a8da01c, type: 3}
+  - texture: {fileID: 2800000, guid: 59102b129c2e3694588ef6868df0f923, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 7ddb4affa0fa9bc4dbb7407b4472ece4, type: 3}
+  - texture: {fileID: 2800000, guid: f8366ae3dd7f1cf428ed9fa2520d095b, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: ff53c38daceff5e4ab4870c429514bab, type: 3}
+  - texture: {fileID: 2800000, guid: d18e3042d85944c4eaefe4e1ee827298, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: d375d4cf8a459054c82786bcdaf5e5ac, type: 3}
+  - texture: {fileID: 2800000, guid: 34f3baaea0c7cff4e9a9546853f509f0, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 272e3af7e338d1747b3c499ec36f2730, type: 3}

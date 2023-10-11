@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: buro
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 1badc115c30ea5746b71eca32635ba97, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: ba95d466f5ec353478e55293e62d97cd, type: 3}
+  - texture: {fileID: 2800000, guid: b04c5ac3ced7d5f4b8a2110bae291049, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 9ee039fc849e6c5449c037b378b8494d, type: 3}
+  - texture: {fileID: 2800000, guid: 2957cf449c3f21b43bf94555b7b4f7f6, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: f3df297d06609614db6a6946e1c0e89b, type: 3}
+  - texture: {fileID: 2800000, guid: 32c5d05f359fc1140a2ae9bbba002942, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 56d6327102ba6a440b60563f990a90c3, type: 3}
+  - texture: {fileID: 2800000, guid: 8d8fb624929f1ee44a4a0dd1221c4da2, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: f97b06ba2bb7ad847806da85baaef2a8, type: 3}

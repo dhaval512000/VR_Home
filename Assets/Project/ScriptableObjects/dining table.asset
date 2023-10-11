@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: dining table
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 0aaa122d4c1386d4e83cc7bcc7f14df3, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: b94b885653b9aa54b9c4e72fe0de6066, type: 3}
+  - texture: {fileID: 2800000, guid: 71bbaf9c366af6a4db0cc636618e308b, type: 3}
+    tilingValue: {x: 5, y: 5}
+    previewImageData: {fileID: 21300000, guid: fbe9458439e6f6949bf314360db6bdde, type: 3}
+  - texture: {fileID: 2800000, guid: c11d2bef5c1e8d848acedccecaeb19f4, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 415e47b9383faaa40abcc96cb2692ff0, type: 3}
+  - texture: {fileID: 2800000, guid: 7b87d0585a5b1b44db5eab8d3fa66f99, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 3310156dd2dd3c9438b1f9e37356e1c1, type: 3}
+  - texture: {fileID: 2800000, guid: 35fb2b684e9aeb447b703c7155ec2534, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 26b9309645b268849868eece31217713, type: 3}
+  - texture: {fileID: 2800000, guid: caf41c880d180f64e80021be8c414ac7, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: b1670e4e3e17c184d9d91d78b1d0e45d, type: 3}
+  - texture: {fileID: 2800000, guid: b693ffaa0a0435845b164af66a2387a1, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 8ec1145d6c3065445b9b1def90d080ca, type: 3}
+  - texture: {fileID: 2800000, guid: 04e46ffc0a92f414bbb36aeb165dc401, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 2a3c727026484d84499ae89d291f326e, type: 3}
+  - texture: {fileID: 2800000, guid: f00b242a59075ae41a893bf2424a9702, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 20b25c4661c7a234eb17dac62b9ddd86, type: 3}
+  - texture: {fileID: 2800000, guid: 14f1576920aaa9e4f9c0bf0e0e632d1e, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: f6d6a81b1d51ba64f9809c450d894a31, type: 3}

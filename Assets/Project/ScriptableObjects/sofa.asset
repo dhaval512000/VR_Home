@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: sofa
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: 5197496ff8324ec48b39ff6a3cacb579, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: dc3089b8cae136049985eafce6474f16, type: 3}
+  - texture: {fileID: 2800000, guid: 9c7ce695b1b2dcb48931ddb1a900b18b, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: 233be426a35581e4e83aad823b3c6d14, type: 3}
+  - texture: {fileID: 2800000, guid: fb4700f3681ff1444acc76be73963434, type: 3}
+    tilingValue: {x: 5, y: 5}
+    previewImageData: {fileID: 21300000, guid: b6a0ef5de765c3f48a8c3b5a35387015, type: 3}
+  - texture: {fileID: 2800000, guid: 9953011cc662a4e42bb7d50c972970e6, type: 3}
+    tilingValue: {x: 5, y: 5}
+    previewImageData: {fileID: 21300000, guid: 2ecb9995562bfb74890a01314a4e358d, type: 3}
+  - texture: {fileID: 2800000, guid: 21293e55059600447911b7fb7cc73e2d, type: 3}
+    tilingValue: {x: 10, y: 10}
+    previewImageData: {fileID: 21300000, guid: c561e4ab64f3163469ebb5624c738ba4, type: 3}
+  - texture: {fileID: 2800000, guid: 6b14374024af8d746a777b4a37bb7faf, type: 3}
+    tilingValue: {x: 20, y: 20}
+    previewImageData: {fileID: 21300000, guid: 8915da692c2cefd4fb2916dca01323f5, type: 3}

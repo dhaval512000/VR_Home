@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e573d0a4fefcd9241ad77b3f4f7d0a64, type: 3}
+  m_Name: ES SWING CHAIR
+  m_EditorClassIdentifier: 
+  textureDataList:
+  - texture: {fileID: 2800000, guid: d0c5c690b5c99b143a8f40accaf200cc, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: 4c63f38a7a89ead40a93ab67a700177e, type: 3}
+  - texture: {fileID: 2800000, guid: 5bcbcf973b9b89747b9a98dc971499da, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: be08d4c7de8133c4a808842454f73d63, type: 3}
+  - texture: {fileID: 2800000, guid: f0288a8eb736b084cbe950c6c8aa2620, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: da81351c045c83f4ebdedbc16476daa9, type: 3}
+  - texture: {fileID: 2800000, guid: 2fab2e743603e9a4580c1c60f0046e25, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: f705a73fd7f5dd34791465936db667a0, type: 3}
+  - texture: {fileID: 2800000, guid: 8cd68a7c9eae8f746a609f788b8188ef, type: 3}
+    tilingValue: {x: 1, y: 1}
+    previewImageData: {fileID: 21300000, guid: cd0c125ddaeadda4e950421ff4adb913, type: 3}
