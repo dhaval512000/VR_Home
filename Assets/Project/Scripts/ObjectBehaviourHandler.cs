@@ -25,18 +25,18 @@ public class ObjectBehaviourHandler : MonoBehaviour
     {
         Events.onTextureReset += SetDefaultTexture;
         GetComponent<XRSimpleInteractable>().selectEntered.AddListener(OnObjectDetect);
-        //GetComponent<XRSimpleInteractable>().hoverEntered.AddListener(EnableEmission);
-        //GetComponent<XRSimpleInteractable>().hoverExited.AddListener(DisableEmission);
+        GetComponent<XRSimpleInteractable>().hoverEntered.AddListener(EnableEmission);
+        GetComponent<XRSimpleInteractable>().hoverExited.AddListener(DisableEmission);
     }
 
     private void OnDisable()
     {
         Events.onTextureReset -= SetDefaultTexture;
         GetComponent<XRSimpleInteractable>().selectEntered.RemoveListener(OnObjectDetect);
-        //GetComponent<XRSimpleInteractable>().hoverEntered.RemoveListener(EnableEmission);
-        //GetComponent<XRSimpleInteractable>().hoverExited.RemoveListener(DisableEmission);
+        GetComponent<XRSimpleInteractable>().hoverEntered.RemoveListener(EnableEmission);
+        GetComponent<XRSimpleInteractable>().hoverExited.RemoveListener(DisableEmission);
     }
-    /*public void EnableEmission(HoverEnterEventArgs args)
+    public void EnableEmission(HoverEnterEventArgs args)
     {
         Debug.Log("EnableEmission_"+gameObject.name);
         //objectMaterial.EnableKeyword("_EMISSION");
@@ -48,7 +48,7 @@ public class ObjectBehaviourHandler : MonoBehaviour
         Debug.Log("DisableEmission_"+gameObject.name);
         //objectMaterial.DisableKeyword("_EMISSION");
         objectMaterial.SetColor("_BaseColor",DisableColor);
-    }*/
+    }
 
     private void SetDefaultTexture()
     {
@@ -59,7 +59,7 @@ public class ObjectBehaviourHandler : MonoBehaviour
     {
         Detect();
         //objectMaterial.DisableKeyword("_EMISSION");
-        //objectMaterial.SetColor("_BaseColor",DisableColor);
+        objectMaterial.SetColor("_BaseColor",DisableColor);
     }
 
     [ContextMenu("On Object Detect")]
