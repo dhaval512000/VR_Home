@@ -5,9 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Project/Scene/VR_Home.unity
     guid: 3ab090d98c49fa541816aada77fc39b8
+  - enabled: 1
+    path: Assets/Project/Scene/VR_HomeVision.unity
+    guid: a06d5d6efa0414ed8a89b73e870e17ff
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3d9eba1a28b26d14da4bb6f9dc0d61cf, type: 2}
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: fab89a843d1ab446b8fa6f36b1eda0be, type: 2}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: 40531c1860ee545fba11a52cd4a81f1e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f609bfe97ae0e4971b834933172e34f4, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d3ac35f5816b5434da47f877dc288fad, type: 2}
+  m_UseUCBPForAssetBundles: 0

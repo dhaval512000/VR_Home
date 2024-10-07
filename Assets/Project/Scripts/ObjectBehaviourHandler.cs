@@ -24,17 +24,17 @@ public class ObjectBehaviourHandler : MonoBehaviour
     private void OnEnable()
     {
         Events.onTextureReset += SetDefaultTexture;
-        GetComponent<XRSimpleInteractable>().selectEntered.AddListener(OnObjectDetect);
-        GetComponent<XRSimpleInteractable>().hoverEntered.AddListener(EnableEmission);
-        GetComponent<XRSimpleInteractable>().hoverExited.AddListener(DisableEmission);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().selectEntered.AddListener(OnObjectDetect);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().hoverEntered.AddListener(EnableEmission);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().hoverExited.AddListener(DisableEmission);
     }
 
     private void OnDisable()
     {
         Events.onTextureReset -= SetDefaultTexture;
-        GetComponent<XRSimpleInteractable>().selectEntered.RemoveListener(OnObjectDetect);
-        GetComponent<XRSimpleInteractable>().hoverEntered.RemoveListener(EnableEmission);
-        GetComponent<XRSimpleInteractable>().hoverExited.RemoveListener(DisableEmission);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().selectEntered.RemoveListener(OnObjectDetect);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().hoverEntered.RemoveListener(EnableEmission);
+        GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable>().hoverExited.RemoveListener(DisableEmission);
     }
     public void EnableEmission(HoverEnterEventArgs args)
     {
